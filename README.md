@@ -4,7 +4,7 @@ Create Matrix class with following methods:
 
 1. __ init__ (self, 2d_array) must get 2d array in argument <br>
 1.1. befor creating Matrix should be checked if matrix <br>
-   . has anly numerical items <br>
+   . has only numerical items <br>
    . rows have same length <br>
 if not then raise Exception with corresponding message <br>
 
@@ -25,6 +25,3 @@ if not then raise Exception with corresponding message <br>
 8. same_dimention_with(other_matrix) makes sure other matrix has the same dimension as instance matrix <br>
 9. is_square() check if matrix is square <br>
 10. random_matrix() static method returns instance of Matrix by <br>
-
-
-https://en.wikipedia.org/wiki/Matrix_(mathematics)
